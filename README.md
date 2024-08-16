@@ -1,8 +1,7 @@
-# coding-raja-task-one
-I have completed the task one of coding raja internship
+# Resume Bulider made by using the HTML and Java Script 
 
 
-you should upload the profile pic to generate the cv 
+NOTE: you should upload the profile pic to generate the cv 
 
 Thank you
 
